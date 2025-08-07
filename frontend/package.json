@@ -1,0 +1,13 @@
+{
+  "name": "securetg-frontend",
+  "version": "0.0.1",
+  "description": "фронтенд для: Фановый тг бот, который будет служить самым безопасным мессенджером, стараясь достичь максимальной приватности и безопасности используя самые актуальные и защищеные методы.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rozeraf",
+  "license": "GPL-3.0-only",
+  "packageManager": "pnpm@10.13.1"
+}
